@@ -1,2 +1,1 @@
-# project
-student
+college
